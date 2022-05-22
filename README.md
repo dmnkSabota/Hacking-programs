@@ -1,6 +1,6 @@
 # Hacking tools 
 
-## Potrebný software
+## Použitý software
 * Kali Linux
 * Python 3
 
